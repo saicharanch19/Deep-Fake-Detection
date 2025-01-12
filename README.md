@@ -1,4 +1,3 @@
-# Deep-Fake-Detection
 # Deep Fake Detection
 
 Problem Statement and Background:
